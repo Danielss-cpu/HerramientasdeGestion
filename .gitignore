@@ -1,0 +1,17 @@
+# Dependencias de Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Next.js
+.next/
+out/
+build/
+
+# Entorno
+.env
+.env.local
+
+# Archivos del SO
+.DS_Store
+Thumbs.db
